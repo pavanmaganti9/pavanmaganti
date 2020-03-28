@@ -1,0 +1,1 @@
+web: gunicorn pavanmaganti.wsgi --log-file -
